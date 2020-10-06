@@ -1,0 +1,23 @@
+```?Help
+
+prefix: .
+
+>putar/cari musik/tambahkan ke antrean : .p <parameter cari/link youtube>
+contoh 1 : .p Tiny Little Adiantum
+contoh 2 : .p https://www.youtube.com/watch?v=rB7XFQgJHBI
+
+>lewati lagu yang sedang diputar : .skip
+
+>hapus lagu di antrean : .hapus <nomor antrean>
+contoh : .hapus 4
+keluaran yang dihasilkan akan menghapus lagu pada antrean nomor 4
+
+>lagu yang sedang diputar : .np
+
+>daftar antrean : .q
+
+>stop musik : .stop
+
+set volume sedang bermasalah, lagi dicari apaan masalahnya sementara manual dulu
+
+bermasalah? tanya ke Floemizu#8331```
